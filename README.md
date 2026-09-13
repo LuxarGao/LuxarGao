@@ -11,4 +11,4 @@ Static personal website featuring computational social science research, confere
 - `love-life.html` — 22-slide static HTML presentation
 - `portfolio.html` — visual design and editorial portfolio
 
-Ready for GitHub Pages or Vercel with no build step. ACWS code and slides live in [LuxarGao/her-new-shield](https://github.com/LuxarGao/her-new-shield).
+Ready for GitHub Pages or Vercel with no build step. ACWS code and slides live in [LuxarGao/her-new-shield](https://github.com/LuxarGao/her-new-shield/blob/main/slides/acws%E7%BB%88.html).
