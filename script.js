@@ -1,3 +1,7 @@
+const detailStyles = document.createElement('link');
+detailStyles.rel = 'stylesheet';
+detailStyles.href = 'detail.css';
+document.head.appendChild(detailStyles);
 document.getElementById('year').textContent = new Date().getFullYear();
 const menu = document.querySelector('.menu');
 const nav = document.querySelector('nav');
